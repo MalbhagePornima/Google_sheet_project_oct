@@ -4,10 +4,10 @@
     gap: 10px;
     justify-content: center;
     padding: 20px 10px;
-    width: 50vw ;
+    width: 60vw ;
     margin: auto;
     /* width: 60vw ; */
-    /* margin: auto; */
+   
     align-items: center;
 }
 .options input, .options select {
@@ -41,8 +41,7 @@
 }
 
 .hidden-input {
-    width: 0; 
-    width: 0 !important; 
+    width: 0 !important;  
     height: 0;
     border: none ;
 }
